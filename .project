@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>RoadRacer</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Imagenes/CarreteraCt.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/CarreteraCt.png</locationURI>
+		</link>
+		<link>
+			<name>src/Imagenes/CarreteraDr.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/CarreteraDr.png</locationURI>
+		</link>
+		<link>
+			<name>src/Imagenes/CarreteraIz.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/CarreteraIz.png</locationURI>
+		</link>
+		<link>
+			<name>src/Imagenes/Cesped.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Cesped.png</locationURI>
+		</link>
+		<link>
+			<name>src/Imagenes/autoPJ.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/autoPJ.png</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
